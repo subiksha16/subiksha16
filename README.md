@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=2000&color=79FFE1&center=true&vCenter=true&width=800&lines=Hi,+I’m+Subiksha+a+Data+Science+Enthusiast!;M.S+in+Data+Science+@+Pace+University" alt="Banner Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=2000&color=79FFE1&center=true&vCenter=true&width=800&lines=Hi,+I’m+Subiksha+a+Data+Science+Enthusiast!;" alt="Banner Typing" />
 </div>
 
 <!-- Quick Links -->
