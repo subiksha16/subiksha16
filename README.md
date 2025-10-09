@@ -69,17 +69,6 @@
 
 ---
 
-## 🏗️ Projects
-
-### 📍 NYC Taxi Trip Duration Predictor
-- MLP in TensorFlow → **MSE: 0.50** (–35% error vs. baseline)  
-- Streamlit app with live EDA & duration forecast dashboard
-
-### 🤖 RAG-Powered Career Services Chatbot
-- Web-scraped 50+ sources to build a consolidated knowledge base, achieving ~95% accuracy in internal query tests.
-- Built a basic ChromaDB vector store and a Streamlit front-end to streamline text retrieval—resulting in noticeably faster lookups and a simple, user-friendly interface 
-
----
 
 <div align="center">
   <em>Let’s connect and build something amazing together! 🚀</em>
