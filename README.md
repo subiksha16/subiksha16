@@ -22,7 +22,7 @@
 ---
 
 ## 📊 Key Achievements
-- **Statistical Analysis** on 500K+ rows → +18% report accuracy & –25% turnaround  
+- **Statistical Analysis** on 500K+ rows  
 - **Regression Models** for ad-impression forecasts → +24% accuracy  
 - **Clustering Segmentation** → +30% targeting efficiency  
 - **Dashboards**: Delivered 10+ interactive KPIs for real-time insights  
