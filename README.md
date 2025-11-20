@@ -13,18 +13,16 @@
 ---
 
 ## 👩‍🎓 About Me
-- 🎓 **Pace University** — M.S. in Data Science (Sept 2024 – May 2026)  
-- 💼 **Cognizant**  
-  - Intern (Jan 2020 – Jun 2020)  
-  - Data Scientist (Full-Time, Sep 2020 – Aug 2024)  
-- 🌱 Passionate about ML, NLP, and deployable AI applications
+AI/ML Engineer who builds smart models, explores scalable system design, and keeps data and security at the core of every solution. I work across Data Science, Generative AI, and MLOps, experimenting with modern AI architectures and hands-on projects. Currently pursuing a Master’s in Data Science at Pace University (’26).
+
 
 ---
 
 ## 📊 Key Achievements
+
 - **Statistical Analysis** on 500K+ rows  
-- **Regression Models** for ad-impression forecasts → +24% accuracy  
-- **Clustering Segmentation** → +30% targeting efficiency  
+- **Regression Models** for ad-impression forecasts → +25% accuracy  
+- **Clustering Segmentation** → +15% campaign engagement  
 - **Dashboards**: Delivered 10+ interactive KPIs for real-time insights  
 
 ---
